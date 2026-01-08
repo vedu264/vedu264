@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedu264
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently revising Python and learning Security+
+- 👀 I’m interested in Software Dev, ML & AI and Cybersecurity.
+- 🌱 I currently have Security+ and A+
 - 📫 How to reach me: Email- gvedant@bu.edu
 
 <!---
